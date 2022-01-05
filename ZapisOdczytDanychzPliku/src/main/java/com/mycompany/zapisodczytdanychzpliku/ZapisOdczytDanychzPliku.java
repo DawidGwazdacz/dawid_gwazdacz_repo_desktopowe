@@ -8,9 +8,10 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.System.Logger;
+
 import java.util.Scanner;
 import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -159,4 +160,8 @@ public class ZapisOdczytDanychzPliku extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextArea jTADataToStore;
     // End of variables declaration//GEN-END:variables
+
+    private Object Logger(String name) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
