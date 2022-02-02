@@ -1,1 +1,1 @@
-Dawid;Gwazdacz;1PTN;Biologia;4
+Dawid;Gwazdacz;2PTN;Matematyka;3

@@ -98,7 +98,7 @@ public class Projekt extends javax.swing.JFrame {
         jLabel6.setText(" Wszystkie wpisy:");
 
         jTextArea1.setColumns(20);
-        jTextArea1.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
+        jTextArea1.setFont(new java.awt.Font("Segoe UI", 3, 12)); // NOI18N
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
 
